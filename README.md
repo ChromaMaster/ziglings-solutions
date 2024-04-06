@@ -1,10 +1,8 @@
-# Ziglings
+# Ziglings solutions
 
-Welcome to Ziglings! This project contains a series of tiny
-broken programs (and one nasty surprise).  By fixing them, you'll
-learn how to read and write [Zig](https://ziglang.org/) code.
+These are the solutions for the exercises presented in the ziglings repository:
 
-![Ziglings](images/ziglings.jpg "Ziglings")
+[Ziglings](https://codeberg.org/ziglings/exercises/)
 
 Those broken programs need your help! (You'll also save the
 planet from evil aliens and help some friendly elephants stick
